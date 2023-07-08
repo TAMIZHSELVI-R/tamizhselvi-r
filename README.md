@@ -1,5 +1,6 @@
-### Hi there 👋
-
+# Hi there 👋
+🔭 I’m currently working on creating new projects based on HTML,CSS and JS.
+🌱 I’m currently learning node js a framework for javascript.
 <!--
 **Tamizhselvi-R/tamizhselvi-r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
