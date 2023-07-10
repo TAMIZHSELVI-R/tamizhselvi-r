@@ -144,7 +144,7 @@
 }
 
 .About h2 {
-    color: rgb(31, 211, 214);
+    color: rgb(200, 140, 228);
     font-weight: 700;
     font-size: 30px;
 }
@@ -163,13 +163,13 @@
 }
 
 .About a {
-    color: rgb(31, 212, 212);
+    color: rgb(200, 140, 228);
     text-decoration: none;
 }
 
 ul {
     list-style-type: none;
-    color: rgb(31, 212, 212);
+    color: rgb(200, 140, 228);
 }
 
 ul span {
@@ -181,7 +181,7 @@ ul strong {
 }
 
 .progress-bar {
-    background-color: rgb(31, 211, 214) !important;
+    background-color: rgb(200, 140, 228) !important;
 }
 
 .skills {
@@ -291,12 +291,12 @@ ul strong {
     border-radius: 50px;
     left: -9px;
     top: 0;
-    background: rgb(31, 211, 214);
-    border: 2px solid rgb(31, 211, 214)e;
+    background: rgb(200, 140, 228);
+    border: 2px solid rgb(200, 140, 228);
 }
 
 .download .btn {
-    background-color: rgb(31, 211, 214);
+    background-color: rgb(200, 140, 228);
     border: none;
     color: white;
     padding: 12px 30px;
@@ -465,7 +465,7 @@ ul strong {
     margin: 0 auto;
     width: 64px;
     height: 64px;
-    background: rgb(31, 211, 214);
+    background: rgb(200, 140, 228);
     border-radius: 5px;
     transition: all 0.3s ease-out 0s;
     display: flex;
@@ -519,7 +519,7 @@ ul strong {
 }
 
 .Contact .icon-box:hover .icon i {
-    color: rgb(31, 211, 214);
+    color: rgb(200, 140, 228);
 }
 
 .Contact .icon-box:hover .icon::before {
@@ -544,7 +544,7 @@ ul strong {
 }
 
 .footer a {
-    color: rgb(31, 211, 214);
+    color: rgb(200, 140, 228);
     text-decoration: none;
     font-size: 16px;
     font-weight: 500;
