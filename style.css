@@ -57,21 +57,19 @@
     padding-right: 15px;
 }
 
-      
-            .homeprofile {
+.homeprofile {
                 width: 380px;
                 height: 380px;
                 margin-top: 20%;
                 border-radius: 390px;
                 -webkit-border-radius: 390px;
                 -moz-border-radius: 390px;
-                background-color: rgb(67, 67, 67);
-                box-shadow: 0 0 8px rgba(0, 0, 0, .8);
-                -webkit-box-shadow: 0 0 8px rgba(0, 0, 0, .8);
-                -moz-box-shadow: 0 0 8px rgba(0, 0, 0, .8);
+                box-shadow: 0 0 50px #5b2167;
+                -webkit-box-shadow: 0 0 50px #5b2167;
+                -moz-box-shadow: 0 0 50px #5b2167;
             }
             
-            .homeprofile {
+.homeprofile {
                 margin-right: 120px;
             }
 
@@ -302,9 +300,24 @@ ul strong {
     cursor: pointer;
     font-size: 20px;
 }
+#btn1 {
+    background-color: #5b2167;
+    border: none;
+    color: white;
+    cursor: pointer;
+    font-size: 20px;
+}
+#btn1:hover{
+    background-color: white;
+    color: #5b2167;
+    font-weight: 400px;
+    border: 2px solid #5b2167;
+}
 
 .download .btn:hover {
-    background-color: RoyalBlue;
+    background-color: #5b2167;
+    border: 2px solid rgb(200, 140, 228);
+    color: white;
 }
 
 .Services .container {
@@ -339,7 +352,7 @@ ul strong {
 
 .Services .icon-box {
     text-align: center;
-    background:  rgba(64, 6, 71, 0.8);
+    background: rgba(204, 204, 204, 0.1);
     padding: 80px 20px;
     transition: all ease-in-out 0.3s;
 }
@@ -348,7 +361,7 @@ ul strong {
     margin: 0 auto;
     width: 64px;
     height: 64px;
-    background:  rgba(64, 6, 71, 0.8);
+    background: rgb(200, 140, 228);
     border-radius: 5px;
     transition: all 0.3s ease-out 0s;
     display: flex;
@@ -399,21 +412,23 @@ ul strong {
 
 .Services .icon-box:hover .icon {
     background: #fff;
+    
 }
 
 .Services .icon-box:hover .icon i {
-    color: rgb(170, 68, 196);
+    color: rgb(200, 140, 228);
+
 }
 
 .Services .icon-box:hover .icon::before {
     background: rgb(131, 141, 141);
+    
 }
 
 .Services .icon-box:hover h4 a,
 .Services .icon-box:hover p {
     color: #fff;
 }
-
 .Contact .container {
     background-color:  rgba(64, 6, 71, 0.8);
 }
