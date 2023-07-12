@@ -57,24 +57,23 @@
     padding-right: 15px;
 }
 
-.homeprofile {
-    width: 356px;
-    height: 706px;
-    margin-top: 10%;
-    border-radius: 290px;
-    -webkit-border-radius: 390px;
-    -moz-border-radius: 390px;
-    background-color: rgb(80, 77, 77);
-    box-shadow: 0 0 8px rgba(0, 0, 0, .8);
-    -webkit-box-shadow: 0 0 8px rgba(0, 0, 0, .8);
-    -moz-box-shadow: 0 0 8px rgba(0, 0, 0, .8);
-   
-}
-
-.homeprofile {
-    margin-right: 120px;
-    margin-left: 120px;
-}
+      
+            .homeprofile {
+                width: 380px;
+                height: 380px;
+                margin-top: 20%;
+                border-radius: 390px;
+                -webkit-border-radius: 390px;
+                -moz-border-radius: 390px;
+                background-color: rgb(67, 67, 67);
+                box-shadow: 0 0 8px rgba(0, 0, 0, .8);
+                -webkit-box-shadow: 0 0 8px rgba(0, 0, 0, .8);
+                -moz-box-shadow: 0 0 8px rgba(0, 0, 0, .8);
+            }
+            
+            .homeprofile {
+                margin-right: 120px;
+            }
 
 @media (max-device-width: 992px) {
     .homeprofile {
